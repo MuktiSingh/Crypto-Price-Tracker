@@ -6,4 +6,7 @@ A website for tracking price of top 100 cryptocurrency using reactjs and coingec
 <br/>
 <br/>
 Search currency by name
+<br/>
+<br/>
+<br/>
 <a><img src="https://i.ibb.co/mTxw5fk/Screenshot-619.png" alt="Image 2" border="0"></a>
