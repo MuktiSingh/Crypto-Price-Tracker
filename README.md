@@ -1,6 +1,6 @@
 # Crypto-Price-Tracker
 <h2>A website for tracking price of top 100 cryptocurrency using reactjs and coingecko api</h2>
-
+<h2>Tech :ReactJs, CoinGecko API for fetching data</><br/><br/>
 <p align=center><a><img src="https://i.ibb.co/XJs3wtt/Screenshot-618.png" alt="Image 1" border="0"></a>
 <br/>
 <br/>
